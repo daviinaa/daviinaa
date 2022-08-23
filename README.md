@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on DevOps and Cloud projects
 - 💬 Ask me about CI/CD, Terraform, AWS, Azure, Docker, Kubernetes
 - 📫 How to reach me: theanthonydavina@gmail.com
-- 😄 Pronouns: her/her
+- 😄 Pronouns: she/her
